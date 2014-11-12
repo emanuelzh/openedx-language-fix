@@ -13,7 +13,7 @@ Actualizar los siguientes parametros
 TIME_ZONE = 'America/Mexico_City'
 LANGUAGE_CODE = 'es-419'
 LANGUAGES = (
-   ('es-419', u'Español (Latinoamérica)'),  # Spanish (Latin America)
+   ('es-419', 'Español (Latinoamérica)'),  # Spanish (Latin America)
 )
 ```
 
